@@ -15,7 +15,7 @@
 - <img width="1321" alt="스크린샷 2024-09-23 오전 11 46 04" src="https://github.com/user-attachments/assets/ce454b71-1a34-460b-b8e9-42724487743d">
 
 - 게시글 등록 폼 페이지
-- <img width="1315" alt="스크린샷 2024-09-23 오전 11 56 44" src="https://github.com/user-attachments/assets/0e5a64fe-6b77-4738-b7f1-52c5918e7d73">
+- <img width="1302" alt="스크린샷 2024-09-23 오후 12 24 36" src="https://github.com/user-attachments/assets/6b7870d2-de3f-432d-b79f-03694519c576">
 
 
 - 
